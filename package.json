@@ -1,7 +1,7 @@
 {
-  "name": "lunarsync",
+  "name": "PLATYPROXY",
   "version": "1.0.0",
-  "description": "The ultimate place for 200+ unblocked games at school",
+  "description": "Simple,effective web proxy",
   "engines": {
     "npm": ">=9.0.0",
     "node": ">=18.0.0"
